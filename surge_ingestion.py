@@ -23,3 +23,4 @@ def log_surge_data(offer_amount, surge_multiplier):
 if __name__ == "__main__":
     # Test Ingestion
     log_surge_data(120.50, 1.5)
+    
