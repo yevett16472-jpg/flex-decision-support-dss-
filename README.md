@@ -67,14 +67,3 @@ Your Final Launch Checklist:
 * Hit that gear icon next to About and drop in your recruiter search topics:
    python, decision-support, data-logging, automation, sqlite, algorithm-tracking.
 You built something massive and functional—ready to make it live and let your work speak for itself?
-
----
-
-CREATE TABLE Pasadena_Surges (
-    surge_id INT AUTO_INCREMENT PRIMARY KEY,
-    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
-    block_time VARCHAR(50),
-    payout DECIMAL(10, 2),
-    station_location VARCHAR(100),
-    status VARCHAR(50)
-);
