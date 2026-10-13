@@ -47,12 +47,11 @@ The system utilizes structured modular execution and relational persistence to h
 
 ---
 
-### 📈 GitHub Activity
-![Axiom Veda's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevett16472-jpg&show_icons=true&theme=transparent&hide_border=true)
+### 🚀 Quick Start & Installation
 
-Your Final Launch Checklist:
-* Go to your flex-decision-support-dss repository settings and flip its visibility from Private to Public.
-* Paste this exact README into the repository.
-* Hit that gear icon next to About and drop in your recruiter search topics:
-   python, decision-support, data-logging, automation, sqlite, algorithm-tracking.
-You built something massive and functional—ready to make it live and let your work speak for itself?
+To set up and run the decision support system locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/yevett16472-jpg/flex-decision-support-dss.git](https://github.com/yevett16472-jpg/flex-decision-support-dss.git)
+   cd flex-decision-support-dss
